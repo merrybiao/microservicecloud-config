@@ -30,4 +30,4 @@ eureka:
     client:
         service-url:
             defaultZone: http://eureka-test.com:7001/eureka/        
-#UTF8格式保存
+#吴仁彪UTF8格式保存
